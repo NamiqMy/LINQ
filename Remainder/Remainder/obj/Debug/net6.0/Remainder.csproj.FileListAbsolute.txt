@@ -1,0 +1,15 @@
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\bin\Debug\net6.0\Remainder.exe
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\bin\Debug\net6.0\Remainder.deps.json
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\bin\Debug\net6.0\Remainder.runtimeconfig.json
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\bin\Debug\net6.0\Remainder.dll
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\bin\Debug\net6.0\Remainder.pdb
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\obj\Debug\net6.0\Remainder.csproj.AssemblyReference.cache
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\obj\Debug\net6.0\Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\obj\Debug\net6.0\Remainder.AssemblyInfoInputs.cache
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\obj\Debug\net6.0\Remainder.AssemblyInfo.cs
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\obj\Debug\net6.0\Remainder.csproj.CoreCompileInputs.cache
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\obj\Debug\net6.0\Remainder.dll
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\obj\Debug\net6.0\refint\Remainder.dll
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\obj\Debug\net6.0\Remainder.pdb
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\obj\Debug\net6.0\Remainder.genruntimeconfig.cache
+C:\Users\ynami\OneDrive\Desktop\Remainder\Remainder\obj\Debug\net6.0\ref\Remainder.dll

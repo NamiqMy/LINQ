@@ -1,0 +1,15 @@
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\bin\Debug\net6.0\LinqEx13.exe
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\bin\Debug\net6.0\LinqEx13.deps.json
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\bin\Debug\net6.0\LinqEx13.runtimeconfig.json
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\bin\Debug\net6.0\LinqEx13.dll
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\bin\Debug\net6.0\LinqEx13.pdb
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\obj\Debug\net6.0\LinqEx13.csproj.AssemblyReference.cache
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\obj\Debug\net6.0\LinqEx13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\obj\Debug\net6.0\LinqEx13.AssemblyInfoInputs.cache
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\obj\Debug\net6.0\LinqEx13.AssemblyInfo.cs
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\obj\Debug\net6.0\LinqEx13.csproj.CoreCompileInputs.cache
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\obj\Debug\net6.0\LinqEx13.dll
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\obj\Debug\net6.0\refint\LinqEx13.dll
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\obj\Debug\net6.0\LinqEx13.pdb
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\obj\Debug\net6.0\LinqEx13.genruntimeconfig.cache
+C:\Users\ynami\OneDrive\Desktop\LinqEx13\LinqEx13\obj\Debug\net6.0\ref\LinqEx13.dll

@@ -1,0 +1,15 @@
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\bin\Debug\net6.0\LinqEx5.exe
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\bin\Debug\net6.0\LinqEx5.deps.json
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\bin\Debug\net6.0\LinqEx5.runtimeconfig.json
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\bin\Debug\net6.0\LinqEx5.dll
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\bin\Debug\net6.0\LinqEx5.pdb
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\obj\Debug\net6.0\LinqEx5.csproj.AssemblyReference.cache
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\obj\Debug\net6.0\LinqEx5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\obj\Debug\net6.0\LinqEx5.AssemblyInfoInputs.cache
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\obj\Debug\net6.0\LinqEx5.AssemblyInfo.cs
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\obj\Debug\net6.0\LinqEx5.csproj.CoreCompileInputs.cache
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\obj\Debug\net6.0\LinqEx5.dll
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\obj\Debug\net6.0\refint\LinqEx5.dll
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\obj\Debug\net6.0\LinqEx5.pdb
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\obj\Debug\net6.0\LinqEx5.genruntimeconfig.cache
+C:\Users\ynami\OneDrive\Desktop\LinqEx5\LinqEx5\obj\Debug\net6.0\ref\LinqEx5.dll

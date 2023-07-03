@@ -1,0 +1,15 @@
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\bin\Debug\net6.0\PositiveNumber.exe
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\bin\Debug\net6.0\PositiveNumber.deps.json
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\bin\Debug\net6.0\PositiveNumber.runtimeconfig.json
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\bin\Debug\net6.0\PositiveNumber.dll
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\bin\Debug\net6.0\PositiveNumber.pdb
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\obj\Debug\net6.0\PositiveNumber.csproj.AssemblyReference.cache
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\obj\Debug\net6.0\PositiveNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\obj\Debug\net6.0\PositiveNumber.AssemblyInfoInputs.cache
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\obj\Debug\net6.0\PositiveNumber.AssemblyInfo.cs
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\obj\Debug\net6.0\PositiveNumber.csproj.CoreCompileInputs.cache
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\obj\Debug\net6.0\PositiveNumber.dll
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\obj\Debug\net6.0\refint\PositiveNumber.dll
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\obj\Debug\net6.0\PositiveNumber.pdb
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\obj\Debug\net6.0\PositiveNumber.genruntimeconfig.cache
+C:\Users\ynami\OneDrive\Desktop\PositiveNumber\PositiveNumber\obj\Debug\net6.0\ref\PositiveNumber.dll
